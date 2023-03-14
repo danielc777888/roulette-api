@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouletteService", "RouletteService\RouletteService.csproj", "{4160C9D2-EF9A-405C-8A80-898F488D3434}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouletteService.Tests", "RouletteService.Tests\RouletteService.Tests.csproj", "{BEC06E63-D608-4ADC-AA1B-4E28CCECD8AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4160C9D2-EF9A-405C-8A80-898F488D3434}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4160C9D2-EF9A-405C-8A80-898F488D3434}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4160C9D2-EF9A-405C-8A80-898F488D3434}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4160C9D2-EF9A-405C-8A80-898F488D3434}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEC06E63-D608-4ADC-AA1B-4E28CCECD8AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEC06E63-D608-4ADC-AA1B-4E28CCECD8AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEC06E63-D608-4ADC-AA1B-4E28CCECD8AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEC06E63-D608-4ADC-AA1B-4E28CCECD8AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
