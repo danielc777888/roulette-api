@@ -1,4 +1,5 @@
-# Dev Assessment
+# Roulette Service API
+- Very hacky, exploring functional core and imperative shell design ideas.
 
 ## Stored Procedure
 - Navigate to  : northwind/pr_GetOrderSummary.sql
